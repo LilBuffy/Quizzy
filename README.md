@@ -18,7 +18,7 @@ Competitive.
 
 Unnecessarily chaotic.
 
-**BLYAT.**
+Unlimited pizdets... if u r reading this then ur gay.
 
 ## 🪦 Project Status
 
