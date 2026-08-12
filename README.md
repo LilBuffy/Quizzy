@@ -18,7 +18,7 @@ Competitive.
 
 Unnecessarily chaotic.
 
-Unlimited pizdets... if u r reading this then ur gay.
+Unlimited pizdets... if u r reading this ur gay.
 
 ## 🪦 Project Status
 
