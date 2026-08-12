@@ -1,0 +1,2 @@
+# Quizzy
+For school.
