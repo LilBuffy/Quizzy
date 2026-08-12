@@ -2,43 +2,13 @@
 
 **QUIZZY** is a fucking online quiz platform built for classrooms, competitions, and interactive learning.
 
-Teachers create quizzes.
-
-Participants join with a name and quiz code.
-
-Then everyone fights for the leaderboard.
-
-Basically:
-
-**Teacher creates quiz → gets code → people join → answer questions → abuse powerups → leaderboard decides who survives.**
-
-Simple.
-
-Competitive.
-
-Unnecessarily chaotic.
-
-Unlimited pizdets... if u r reading this ur gay.
+Teachers create quizzes. Participants join with a name and quiz code. Then everyone fights for the leaderboard. Simple. Competitive. Unnecessarily chaotic. Unlimited pizdets... if u r reading this ur gay.
 
 ## 🪦 Project Status
 
-**RIP / ABANDONED**
+**ABANDONED**
 
-This project was made as an educational quiz platform and is no longer maintained.
-
-It served its purpose.
-
-The quizzes are finished.
-
-The participants are gone.
-
-The leaderboard is frozen.
-
-The database can finally fucking rest.
-
-**Вечная память, QUIZZY.**
-
-Another victim of the GitHub cemetery.
+This project was made as an educational quiz platform and is no longer maintained. It served its purpose. The quizzes are finished. The participants are gone. The leaderboard is frozen. The database can finally fucking rest. **Вечная память, QUIZZY.** Another victim of the GitHub cemetery.
 
 ## 👨‍🏫 Teacher Panel
 
@@ -56,10 +26,6 @@ Teachers can:
 * View leaderboards
 * View quiz statistics and performance
 
-Basically, teachers get the fucking control panel.
-
-**Power trip simulator 2026.**
-
 ## 👤 Participant System
 
 Participants don't need an account.
@@ -76,11 +42,7 @@ They can:
 * View rankings
 * Check accuracy and performance
 
-No registration.
-
-No password.
-
-Just enter the code and **GO FUCKING FIGHT.**
+No registration. No password. Just enter the code and **GO FUCKING FIGHT.**
 
 ## ⚡ Powerups
 
@@ -92,11 +54,7 @@ QUIZZY includes:
 * Shield
 * Score Boost
 
-Powerups and scores are validated server side.
-
-So no, you can't open DevTools and give yourself **999999 points** like some fucking **пиздец hacker**.
-
-Nice try, blyat.
+Powerups and scores are validated server side. So no, you can't open DevTools and give yourself **999999 points** like some fucking **пиздец hacker**.
 
 ## 🏆 Leaderboard
 
@@ -109,8 +67,6 @@ The leaderboard shows:
 * Ranking
 * Tie handling
 * Competitive scoring
-
-Basically, the moment where everyone discovers who actually knows the answers and who has been **guessing with fucking confidence.**
 
 ## 🔐 Security
 
@@ -129,19 +85,11 @@ Includes:
 * Rate limiting
 * Session security
 
-Because letting participants edit their own scores would be **absolute fucking govno**.
-
 ## 🧹 24 Hour Data Cleanup
 
 Temporary participant data, quiz sessions, answers, and results are automatically deleted after **24 hours**.
 
-Teacher created quizzes and questions stay until manually deleted.
-
-Less useless data.
-
-Less database **govno**.
-
-More peace.
+Teacher created quizzes and questions stay until manually deleted. Less useless data. Less database **govno**. More peace.
 
 ## 🎨 Design
 
@@ -156,8 +104,6 @@ QUIZZY includes:
 * Game show style presentation
 * English and Filipino language support
 
-Basically, it looks like a quiz platform instead of a PHP page from **2007**.
-
 ## 🛠️ Technologies
 
 * HTML
@@ -166,31 +112,3 @@ Basically, it looks like a quiz platform instead of a PHP page from **2007**.
 * PHP
 * MySQL / MariaDB
 * XAMPP
-
-## 🪦 Final Status
-
-**Teacher creates quiz.**
-
-**Participants join.**
-
-**Everyone fights for first place.**
-
-**Powerups cause chaos.**
-
-**Someone gets fucking obliterated.**
-
-**Winner gets dopamine.**
-
-**Loser gets skill issue.**
-
-**24 hours later, temporary data gets deleted.**
-
-The server closes its eyes.
-
-The database whispers:
-
-**"finally..."**
-
-**Конец.**
-
-**BLYAAAAAT.**
