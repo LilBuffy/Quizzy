@@ -1,117 +1,43 @@
-# 🎮 QUIZZY
+# QUIZZY
 
-**QUIZZY** ay isang fucking **online quiz platform** para sa classrooms, competitions, at interactive learning.
+Isang fucking online quiz platform built with **PHP, MySQL, HTML, CSS, and Vanilla JavaScript**, made for classrooms, competitions, and interactive learning. Teachers gumawa ng quizzes, participants sasali gamit ang name at quiz code, tapos magsisimula na ang academic fucking bloodbath sa leaderboard. Simple idea lang dapat, pero syempre kailangan may timer, powerups, rankings, security, at database para mas masaya ang suffering.
 
-Teachers gumawa ng quizzes. Participants sasali gamit ang name at quiz code. Tapos unli riot na para sa leaderboard.
+**Project Status:** ABANDONED / GITHUB CEMETERY
 
-Simple. Competitive. Magulo. **Unlimited pizdets.**
+Educational project ko lang 'to at hindi na maintained. Tapos na ang quizzes, umalis na ang participants, frozen na ang leaderboard, at yung database pwede nang magpahinga. Вечная память, QUIZZY.
 
-## 🪦 Project Status
+### What This Shit Can Do
 
-**ABANDONED**
+QUIZZY lets teachers **register, login, create, edit, and delete quizzes**, manage questions, set answers and points, generate quiz codes, configure timers, enable or disable powerups, start and close quizzes, monitor participants, and view leaderboard and quiz statistics. Basically, teacher ka ngayon pero may sariling fucking quiz empire.
 
-Educational project ko lang ’to ngaaaaniiii at hindi na maintained.
+Participants don't need an account. They simply enter their **name and quiz code**, answer questions, track their progress, deal with the countdown timer, use available powerups, and watch their score climb or fucking collapse in real time. No registration. No password. Enter code, then GO FUCKING FIGHT.
 
-Tapos na ang quizzes. Umalis na ang participants. Frozen na ang leaderboard.
+### Powerups
 
-Yung database, pwede nang magpahinga.
+May iba't ibang powerups para dagdag gulo sa quiz tulad ng **Double Points, Fifty Fifty, Time Boost, Shield, and Score Boost**.
 
-**Вечная память, QUIZZY.**
+Server side validated ang scores and powerups, so hindi basta basta makakapag DevTools tapos biglang 999999 points. Nice try, gagu.
 
-Isa na namang biktima ng GitHub cemetery.
+### Leaderboard
 
-## 👨‍🏫 Teacher Panel
+May **live rankings, participant names, scores, correct answers, ranking, tie handling, and competitive scoring**. Basically, ginawa ko ang quiz para matuto ang students, pero somehow naging Hunger Games ang leaderboard.
 
-Teachers can:
+### Security
 
-* Mag register at login
-* Gumawa, mag edit, at mag delete ng quizzes
-* Gumawa ng quiz codes
-* Mag manage ng questions
-* Mag set ng answers at points
-* Mag configure ng timer
-* Mag enable o disable ng powerups
-* Mag start at close ng quiz
-* Mag monitor ng participants
-* Makita ang leaderboard
-* Makita ang quiz statistics
+The system includes **secure teacher authentication, password hashing, PDO prepared statements, CSRF protection, XSS protection, IDOR protection, server side scoring, server side timer validation, quiz code protection, duplicate submission prevention, rate limiting, and session security**.
 
-## 👤 Participant System
+Basically, sinubukan kong siguraduhin na hindi basta basta masisira ang quiz dahil lang may isang participant na gustong maging fucking Einstein gamit ang DevTools.
 
-**Walang account kailangan.**
+### 24 Hour Data Cleanup
 
-Participants can:
+Temporary participant data, sessions, answers, and results are automatically deleted after **24 hours**. Teacher quizzes and questions stay until manually deleted.
 
-* Sumali gamit ang name at quiz code
-* Sumagot ng questions
-* Gamitin ang countdown timer
-* Mag track ng progress
-* Makita ang live scores
-* Gumamit ng powerups
-* Makita ang final score at ranking
+Less useless data. Less database govno.
 
-No registration. No password.
+### Tech Stack
 
-Enter code, tapos **GO FUCKING FIGHT.**
+**HTML, CSS, Vanilla JavaScript, PHP, MySQL / MariaDB, and XAMPP.**
 
-## ⚡ Powerups
+PHP handles the backend logic, MySQL or MariaDB handles the data, while HTML, CSS, and JavaScript handle the actual quiz interface and interactions. Simple stack lang. Walang unnecessary framework, walang 900 dependencies, just enough technology para makapag quiz at mag iyakan sa leaderboard.
 
-May:
-
-* Double Points
-* Fifty Fifty
-* Time Boost
-* Shield
-* Score Boost
-
-Server side validated ang scores at powerups.
-
-Kaya hindi ka basta makakapag DevTools tapos **999999 points**, haha gagu.
-
-## 🏆 Leaderboard
-
-May:
-
-* Live rankings
-* Participant names
-* Scores
-* Correct answers
-* Ranking
-* Tie handling
-* Competitive scoring
-
-## 🔐 Security
-
-Includes:
-
-* Secure teacher authentication
-* Password hashing
-* PDO prepared statements
-* CSRF protection
-* XSS protection
-* IDOR protection
-* Server side scoring
-* Server side timer validation
-* Quiz code protection
-* Duplicate submission prevention
-* Rate limiting
-* Session security
-
-## 🧹 24 Hour Data Cleanup
-
-Temporary participant data, sessions, answers, at results ay automatic na nade delete after **24 hours**.
-
-Teacher quizzes at questions stay hanggang manual na burahin.
-
-Less useless data. Less database **govno**.
-
-## 🛠️ Technologies
-
-* HTML
-* CSS
-* Vanilla JavaScript
-* PHP
-* MySQL / MariaDB
-* XAMPP
-
-**Quizzy: mag aral ka, lumaban ka, tapos mag iyakan sa leaderboard. Oh my goodness if binabasa mo 'to ngayon edi proud ako sayo naka abot kapa dito.**
+Quizzy: mag aral ka, lumaban ka, tapos mag iyakan sa leaderboard.
