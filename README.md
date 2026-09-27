@@ -40,4 +40,4 @@ Less useless data. Less database govno.
 
 PHP handles the backend logic, MySQL or MariaDB handles the data, while HTML, CSS, and JavaScript handle the actual quiz interface and interactions. Simple stack lang. Walang unnecessary framework, walang 900 dependencies, just enough technology para makapag quiz at mag iyakan sa leaderboard.
 
-Quizzy: mag aral ka, lumaban ka, tapos mag iyakan sa leaderboard.
+Quizzy: mag aral ka, lumaban ka, tapos SUPER UNLI RIOT sa leaderboard.
